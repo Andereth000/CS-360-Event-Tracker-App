@@ -1,4 +1,4 @@
-# CS-360_Event_Tracker_App
+# CS-360 Event Tracker App
 
 # Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 

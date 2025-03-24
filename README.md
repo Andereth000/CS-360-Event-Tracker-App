@@ -1,5 +1,7 @@
 # CS-360 Event Tracker App
 
+![Event_Tracker](https://github.com/[Andereth000]/[CS-360-Event-Tracker-App]/blob/[main]/Event_Tracker.png?raw=true)
+
 # Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
 The requirements for this app were to create an event tracking application which allowed users to login and store their credentials in a database, create, read, update, and delete events, and enable permissions to recieve SMS messages and notify users about upcoming events.
